@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/EddieIbarra/Desktop/Code/Commander/Commander.csproj",
+      "projectUniqueName": "/Users/EddieIbarra/Desktop/Code/dotnet/Commander.csproj",
       "projectName": "Commander",
-      "projectPath": "/Users/EddieIbarra/Desktop/Code/Commander/Commander.csproj",
+      "projectPath": "/Users/EddieIbarra/Desktop/Code/dotnet/Commander.csproj",
       "packagesPath": "/Users/EddieIbarra/.nuget/packages/",
-      "outputPath": "/Users/EddieIbarra/Desktop/Code/Commander/obj/",
+      "outputPath": "/Users/EddieIbarra/Desktop/Code/dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/EddieIbarra/.nuget/NuGet/NuGet.Config"

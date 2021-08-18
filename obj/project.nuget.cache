@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BfWbyceuuLiMFM2fEiGOOQhEAfG4qn8Y+zAXqg+ew1IwxkDirqhZODtJO6FnKxJw3VwNv4IAYxrOGFG9lOWTng==",
+  "dgSpecHash": "5c02naZKnu1ikmiLTS4g5F314YVI209U9dpDbK0V+9GxWypUi6JXtQwpc90qGV3hZh8yL0vyh1Ssb+h4mYhs0w==",
   "success": true,
-  "projectFilePath": "/Users/EddieIbarra/Desktop/Code/Commander/Commander.csproj",
+  "projectFilePath": "/Users/EddieIbarra/Desktop/Code/dotnet/Commander.csproj",
   "expectedPackageFiles": [
     "/Users/EddieIbarra/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/EddieIbarra/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
