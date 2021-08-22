@@ -1,3 +1,4 @@
+using System.Reflection.Metadata;
 using System.Collections.Generic;
 using Commander.Data;
 using Commander.Models;
@@ -10,7 +11,13 @@ namespace Commander.Controllers
     [ApiController]
     public class CommandsController : ControllerBase
     {
-        private readonly MockCommanderRepo _repository = new MockCommanderRepo();
+        private  readonly ICommanderRepo _repository;
+
+        public CommandsController(ICommanderRepo repository)
+        {
+            _repository = repository;
+        }
+        //private readonly MockCommanderRepo _repository = new MockCommanderRepo();
     // GET: api/commands
         [HttpGet]
         public ActionResult <IEnumerable<Command>> GetAllCommands()
